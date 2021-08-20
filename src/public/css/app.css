@@ -1,0 +1,12 @@
+h1 {
+  padding: auto;
+  color: blue;
+  font-size: 40px; }
+
+.max-height {
+  overflow: hidden;
+  max-height: 100px; }
+
+.check-box-all {
+  width: 180px;
+  margin: 0 10px; }
